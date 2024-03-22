@@ -29,4 +29,4 @@ plonky2_crypto = { git = "https://github.com/nikkolasg/plonky2-crypto" , branch 
 
 
 [patch.crates-io]
-plonky2 = { git = "https://github.com/nikkolasg/plonky2" }
+plonky2 = { git = "https://github.com/Lagrange-Labs/plonky2" }
